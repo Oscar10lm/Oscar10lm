@@ -16,19 +16,37 @@
 
 ## 👤 Who I Am
 
-```python
-oscar = {
-    "name"       : "Oscar Lasso",
-    "role"       : "Systems Engineering Student",
-    "university" : "Escuela Colombiana de Ingeniería Julio Garavito · Bogotá 🇨🇴",
-    "approach"   : "I don't just write code — I design solutions.",
-    "mindset"    : ["Analytical", "Builder", "Growth-oriented"],
-    "interests"  : ["Backend Systems", "Data Analytics", "Project Management",
-                    "AI & Automation", "Financial Investing"],
-}
-```
+<table>
+  <tr>
+    <td>🧑‍💻 <strong>Nombre</strong></td>
+    <td>Oscar Lasso</td>
+  </tr>
+  <tr>
+    <td>🎓 <strong>Rol</strong></td>
+    <td>Systems Engineering Student</td>
+  </tr>
+  <tr>
+    <td>🏛️ <strong>Universidad</strong></td>
+    <td>Escuela Colombiana de Ingeniería Julio Garavito · Bogotá 🇨🇴</td>
+  </tr>
+  <tr>
+    <td>💡 <strong>Enfoque</strong></td>
+    <td><em>I don't just write code — I design solutions.</em></td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>Mentalidad</strong></td>
+    <td>Analytical &nbsp;·&nbsp; Builder &nbsp;·&nbsp; Growth-oriented</td>
+  </tr>
+  <tr>
+    <td>🔍 <strong>Intereses</strong></td>
+    <td>Backend Systems &nbsp;·&nbsp; Data Analytics &nbsp;·&nbsp; Project Management &nbsp;·&nbsp; AI &amp; Automation &nbsp;·&nbsp; Financial Investing</td>
+  </tr>
+</table>
+
+<br/>
 
 > *Combino capacidad técnica con visión de gestión para construir sistemas que no solo funcionen — que sean viables, escalables y alineados con objetivos reales.*
+
 
 ---
 
