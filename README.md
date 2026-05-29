@@ -8,8 +8,6 @@
 
 [![ECI](https://img.shields.io/badge/Escuela_Colombiana_de_Ingeniería-Julio_Garavito-0077B6?style=flat-square&logoColor=white)](https://www.escuelaing.edu.co/)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Oscar10lm?label=Follow&style=flat-square&logo=github&color=181717)](https://github.com/Oscar10lm)
-&nbsp;
 [![Profile views](https://komarev.com/ghpvc/?username=Oscar10lm&style=flat-square&color=0077B6)](https://github.com/Oscar10lm)
 
 </div>
@@ -78,9 +76,8 @@ No solo código — también diseño y gestiono soluciones con metodologías for
 
 | | Proyecto | Descripción | Stack |
 |---|---|---|---|
-| 🚴 | **Race DB** | Sistema de gestión de carreras ciclistas con triggers, paquetes PL/SQL e integración XML | `Oracle` `PL/SQL` `XML` |
-| ⚽ | **FIFA 2026 Sim** | Simulación de torneos con excepciones personalizadas, GUI y pruebas JUnit | `Java` `Swing` `JUnit` |
-| ☕ | **Café Leyenda** | Proyecto full-cycle: identidad visual, repositorio estructurado y flujo completo de desarrollo | `En progreso` |
+| 🎮 | **[World's Hardest Game](https://github.com/mamagege/ProyectoFinal-WorldsHardestGame-Dopo2026-01)** | Proyecto final de Programación Orientada a Objetos — GUI, lógica de juego y arquitectura OOP completa | `Java` `Swing` `JUnit` |
+| ☕ | **[Café Leyenda](https://github.com/Oscar10lm/Proyecto-Caf-Leyenda---MYSD)** | Sistema de gestión para cafetería — ciclo completo: modelado, base de datos, identidad y repositorio estructurado | `SQL` `MYSD` |
 | 🔜 | *Next build* | Herramientas de analítica y automatización — en construcción | `TBD` |
 
 ---
@@ -91,7 +88,7 @@ No solo código — también diseño y gestiono soluciones con metodologías for
 Spring Boot  ████████░░░░░░░  45%
 React        █████░░░░░░░░░░  30%
 Docker       ████░░░░░░░░░░░  25%
-English (B2) ██████████░░░░░  65%
+English (B1) ████████░░░░░░░  50%
 ```
 
 ---
@@ -104,7 +101,6 @@ English (B2) ██████████░░░░░  65%
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar10lm&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Oscar10lm&theme=tokyonight&hide_border=true&locale=es&ring=0077B6&fire=00B4D8&currStreakLabel=90E0EF)](https://git.io/streak-stats)
 
 </div>
 
@@ -114,9 +110,9 @@ English (B2) ██████████░░░░░  65%
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Lasso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Lasso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-lasso-571847308/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-oscarlasso10u@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarlasso10u@gmail.com)
 
 </div>
 
