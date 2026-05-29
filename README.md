@@ -96,7 +96,7 @@ No solo código — también diseño y gestiono soluciones con metodologías for
 |---|---|---|---|
 | 🎮 | **[World's Hardest Game](https://github.com/mamagege/ProyectoFinal-WorldsHardestGame-Dopo2026-01)** | Proyecto final de Programación Orientada a Objetos — GUI, lógica de juego y arquitectura OOP completa | `Java` `Swing` `JUnit` |
 | ☕ | **[Café Leyenda](https://github.com/Oscar10lm/Proyecto-Caf-Leyenda---MYSD)** | Sistema de gestión para cafetería — ciclo completo: modelado, base de datos, identidad y repositorio estructurado | `SQL` `MYSD` |
-| 🔜 | *Next build* | Herramientas de analítica y automatización — en construcción | `TBD` |
+| 📦 | **[Stacking Items](https://github.com/Oscar10lm/ProyectoStackingItemsFINAL)** | Proyecto de estructuras de datos — implementación y simulación de apilamiento de ítems con lógica de gestión | `Java` |
 
 ---
 
