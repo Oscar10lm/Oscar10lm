@@ -111,19 +111,6 @@ English (B1) ████████░░░░░░░  50%
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar10lm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es&title_color=00B4D8&icon_color=0077B6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar10lm&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8)
-
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
